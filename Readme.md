@@ -1,9 +1,9 @@
 # Man & Cat
 
-So, This is a platformer game made on godot made for Third Space YSWS. Well, this is an incomplete project.
-and we will continue it next week.
+So, this is a platformer game made in Godot. Well, this is an incomplete project.
+And we will continue it next week.
 
-This is a type of story game. So a girl and cat ware talking about harvesting season and then they decide to go see the feild and also get some fruits so this game revolves around this.
+This is a type of story game. So a girl and a cat were talking about the harvesting season, and then they decided to go see the field and also get some fruit, so this game revolves around that.
 
 ## How to Play
 
@@ -13,20 +13,20 @@ Space — Jump
 
 ## Objective
 
-Player have to finish the level and get to another level.
+Players have to finish the level and get to the next level.
 
 ## Installation
 Clone the repository:
 
 git clone https://github.com/gunjit-gyawali/Man_-_Cat
-import game to godot
+Import the game into Godot
 
 
 
 ## Built With
 
 1. Godot
-2. GD script
+2. GDScript
 
 
 
