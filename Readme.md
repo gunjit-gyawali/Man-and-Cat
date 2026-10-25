@@ -1,7 +1,6 @@
 # Man & Cat
 
-So, this is a platformer game made in Godot. Well, this is an incomplete project.
-And we will continue it next week.
+So, this is a platformer game made in Godot. Well, this is an incomplete project with updates planned on.
 
 This is a type of story game. So a girl and a cat were talking about the harvesting season, and then they decided to go see the field and also get some fruit, so this game revolves around that.
 
