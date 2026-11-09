@@ -27,7 +27,19 @@ Import the game into Godot
 1. Godot
 2. GDScript
 
+# Contribution 
+What Gunjit Gyawali did:
+1) Set up the game (Loading assets)
+2) Dialogue system
+3) made cat's Dimension (World 2 and World 3)
+4) Collectable system in cat's world
 
+What Deepson Gautam  did:
+1) Main Menu
+2) Character selection Menu
+3) parallax Background
+4) Girl's world building
+5) Collectables and sound effects
 
 ## Screenshots
 
